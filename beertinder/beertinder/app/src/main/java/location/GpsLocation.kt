@@ -1,0 +1,8 @@
+package location
+
+
+
+class  GpsLocation{
+
+
+}

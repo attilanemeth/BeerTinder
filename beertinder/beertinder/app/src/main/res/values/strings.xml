@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BeerTinder</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">BeerTinder</string>
+    <!-- Strings related to login -->
+    <string name="Shocase2Content">Itt találhatóak azok a helyek, ahonnan az elmúlt 1 órában felhívást kaptál egy hideg korsónyi csoda elfogyasztására. Csatlakozz hozzájuk! Vagy a másik oldalon küld ki a sajátod!</string>
+    <string name="Shocase3Content">Megkívántál egy sört de nem tudod hova menj?
+        Itt megtalálod pontosan az összes igazán jó helyet a tökéletes nyugodt söriváshoz.
+
+
+Amennyiben nem szeretnél egyedül inni, a helyszín jelző érintésével és nyomva tartásával jelezhetsz a többieknek hogy csatlakozzanak hozzád.</string>
+    <string name="Shocase4Content">Itt ki tudod kapcsolni az értesítéseket arról, hogy kik isznak éppen. Tapints a sörre ha szeretnél részt venni a buliba, ha pedig nem akkora törött pohárra. </string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="let_drink">Lets Drink!</string>
+    <string name="to_drink">To Drink!</string>
+    <string name="to_not">To Not!</string>
+    <string name="get_notification">You are getting Notifications!</string>
+    <string name="not_get_notification">You will not have any Notification!</string>
+    <string name="pwreset">Reset Password</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

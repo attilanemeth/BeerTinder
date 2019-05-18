@@ -1,0 +1,12 @@
+D:\Projektek\Android\BeerTinder\beertinder\backend\ApiCrud\obj\Release\netcoreapp2.1\ApiCrud.csprojAssemblyReference.cache
+D:\Projektek\Android\BeerTinder\beertinder\backend\ApiCrud\obj\Release\netcoreapp2.1\ApiCrud.csproj.CoreCompileInputs.cache
+D:\Projektek\Android\BeerTinder\beertinder\backend\ApiCrud\obj\Release\netcoreapp2.1\ApiCrud.AssemblyInfoInputs.cache
+D:\Projektek\Android\BeerTinder\beertinder\backend\ApiCrud\obj\Release\netcoreapp2.1\ApiCrud.AssemblyInfo.cs
+D:\Projektek\Android\BeerTinder\beertinder\backend\ApiCrud\bin\Release\netcoreapp2.1\ApiCrud.deps.json
+D:\Projektek\Android\BeerTinder\beertinder\backend\ApiCrud\bin\Release\netcoreapp2.1\ApiCrud.dll
+D:\Projektek\Android\BeerTinder\beertinder\backend\ApiCrud\bin\Release\netcoreapp2.1\ApiCrud.pdb
+D:\Projektek\Android\BeerTinder\beertinder\backend\ApiCrud\bin\Release\netcoreapp2.1\AndroidApi.dll
+D:\Projektek\Android\BeerTinder\beertinder\backend\ApiCrud\bin\Release\netcoreapp2.1\AndroidApi.pdb
+D:\Projektek\Android\BeerTinder\beertinder\backend\ApiCrud\obj\Release\netcoreapp2.1\ApiCrud.csproj.CopyComplete
+D:\Projektek\Android\BeerTinder\beertinder\backend\ApiCrud\obj\Release\netcoreapp2.1\ApiCrud.dll
+D:\Projektek\Android\BeerTinder\beertinder\backend\ApiCrud\obj\Release\netcoreapp2.1\ApiCrud.pdb
